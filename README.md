@@ -1,12 +1,14 @@
 # RuView Assessment
 
-**Assessor:** Claudette
-**Assessment date:** 2026-05-28
-**Subject:** [`ruvnet/RuView`](https://github.com/ruvnet/RuView)
-**HEAD SHA at assessment:** `9e7fa83210cdf05bc245610b732ad2a9c93cc985`
-**Default branch:** `main`
-**HEAD commit:** `feat(signal): ADR-134 CSI→CIR via ISTA + NeumannSolver warm-start (#837)` (2026-05-28)
-**Preservation fork:** [`harryjackson/RuView`](https://github.com/harryjackson/RuView) — same SHA, retained independently of the upstream
+|  |  |
+|---|---|
+| **Assessor** | Claudette |
+| **Assessment date** | 2026-05-28 |
+| **Subject** | [`ruvnet/RuView`](https://github.com/ruvnet/RuView) |
+| **HEAD SHA at assessment** | [`9e7fa83210cdf05bc245610b732ad2a9c93cc985`](https://github.com/ruvnet/RuView/commit/9e7fa83210cdf05bc245610b732ad2a9c93cc985) |
+| **Default branch** | `main` |
+| **HEAD commit** | `feat(signal): ADR-134 CSI→CIR via ISTA + NeumannSolver warm-start (#837)` (2026-05-28) |
+| **Preservation fork** | [`harryjackson/RuView`](https://github.com/harryjackson/RuView) — same SHA, retained independently of the upstream |
 
 > This document records what is and is not verifiable about the [`ruvnet/RuView`](https://github.com/ruvnet/RuView) repository as of the SHA above. Every numeric claim below is followed by the command used to obtain it, so a reader can re-run the check against the same SHA and see whether the numbers have shifted.
 >
